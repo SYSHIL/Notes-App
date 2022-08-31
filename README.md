@@ -1,2 +1,2 @@
 # Notes-App
-Notes-App to save, delete and read your notes
+Created a notes app with Node.JS
